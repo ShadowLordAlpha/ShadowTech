@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modid}",
+  "name": "Shadow Tech",
+  "description": "Placeholder Text here.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ShadowLordAlpha"],
+  "credits": "erogenousbeef for some of the ideas used",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
